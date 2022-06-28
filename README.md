@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehee-Lee-01)](https://github.com/Sehee-Lee-01/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehee-Lee-01&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24)
 
 <!--

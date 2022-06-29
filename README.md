@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 🔭 2022 여름 목표
+1. IoT 공부 for 2022 임소경 
+2. 백준 골드 레벨 진입
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24)

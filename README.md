@@ -10,7 +10,7 @@
   `To study IoT(Internet of Things) for 2022 Embeded SW Contest` 
   `To get BOJ Gold Level (C++)`
   
-  `Using English when writting what I studied.`
+  `Using English when writing what I studied.`
   
   
 

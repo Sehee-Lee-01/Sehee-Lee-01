@@ -10,6 +10,8 @@
   `To study IoT(Internet of Things) for 2022 Embeded SW Contest` 
   `To get BOJ Gold Level (C++)`
   
+  `Using English when writting what I studied.`
+  
   
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24)

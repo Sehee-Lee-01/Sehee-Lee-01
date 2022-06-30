@@ -36,7 +36,11 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
   
-  `Using English when writing what I studied.`
+```
+# others
+  - Using English when writing what I studied.
+  - Making portfolio for employment.
+```
   
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24)

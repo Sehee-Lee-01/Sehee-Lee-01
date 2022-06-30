@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=welcome&desc=Sehee%20Lee&fontSize=60&animation=fadeIn"/>
 
 ### 🔭 2022 여름 목표
 1. IoT 공부 for 2022 임소경 

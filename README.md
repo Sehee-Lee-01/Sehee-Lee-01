@@ -10,13 +10,17 @@
   `To study IoT(Internet of Things) for 2022 Embeded SW Contest` 
   
   `To get BOJ Gold Level & Class 3++ (C++)`
+  
   `To study JAVA`
   
   `Using English when writing what I studied.`
   
-  
+ 
+ 
+ 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sehee-Lee-01&layout=compact)](https://github.com/Sehee-Lee-01/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehee-Lee-01&show_icons=true&theme=tokyonight)

@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### 🔭 2022 여름 목표
 1. IoT 공부 for 2022 임소경 
 2. 백준 골드 레벨 진입 (C++)

@@ -39,7 +39,7 @@
 ```
 # others
   - Using English when writing what I studied.
-  - Making portfolio for employment.
+  - Making the portfolio on github page for employment.
 ```
   
 

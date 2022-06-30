@@ -36,7 +36,6 @@
   - Using English when writing what I studied.
   - Making the portfolio on github page for employment.
 ```
-  
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24)
 

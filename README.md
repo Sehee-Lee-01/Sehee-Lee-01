@@ -5,11 +5,10 @@
 
 <div align="center">
   
-### 🔭 2022 여름 목표 🔭
+### 🔭 2022 Summer Goals 🔭
 
-  `IoT 공부 for 2022 임베디드 SW 경진대회` 
-  `백준 골드 레벨 진입 (C++)`
-  
+  `To study IoT(Internet of Things) for 2022 Embeded SW Contest` 
+  `To get BOJ Gold Level (C++)`
   
   
 

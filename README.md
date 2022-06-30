@@ -8,6 +8,7 @@
 ### 🔭 2022 Summer Goals 🔭
 
   `To study IoT(Internet of Things) for 2022 Embeded SW Contest` 
+  
   `To get BOJ Gold Level (C++)`
   `To study JAVA`
   

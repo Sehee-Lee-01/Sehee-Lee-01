@@ -13,7 +13,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehee-Lee-01&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sehee-Lee-01&show_icons=true&theme=tokyonight)
 
 <!--
 **Sehee-Lee-01/Sehee-Lee-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

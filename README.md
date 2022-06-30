@@ -7,37 +7,33 @@
   
 ### 🔭 2022 Summer Goals 🔭
 
-  `To study IoT(Internet of Things) for 2022 Embeded SW Contest` 
+  #### To study IoT(Internet of Things) for 2022 Embeded SW Contest
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=black">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=Eclipse%20Mosquitto&logoColor=white">
-
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=Socket.io&logoColor=white">
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
 
   
-  
-  `To get BOJ Gold Level & Class 3++ (C++)`
+  #### To get BOJ Gold Level & Class 3++ (C++)
   
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-  `To study JAVA`
+  #### To study JAVA
  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
   
+
+#### Others
 ```
-# others
   - Using English when writing what I studied.
   - Making the portfolio on github page for employment.
 ```

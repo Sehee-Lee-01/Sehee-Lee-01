@@ -29,7 +29,12 @@
   
   `To get BOJ Gold Level & Class 3++ (C++)`
   
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
   `To study JAVA`
+ 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
   
   `Using English when writing what I studied.`
   

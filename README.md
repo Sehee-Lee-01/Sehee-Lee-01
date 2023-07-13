@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Sehee-Lee-01/Sehee-Lee-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> 
+  
+  ### [My Portfolio 👋](https://sehee-lee-01.github.io/)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24/)
+
+</div>

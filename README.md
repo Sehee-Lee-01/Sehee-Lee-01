@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-  
-  ### [My Portfolio 👋](https://sehee-lee-01.github.io/)
-  
+    
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpfktpgml24)](https://solved.ac/tpfktpgml24/)
 
 </div>
